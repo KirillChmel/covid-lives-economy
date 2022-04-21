@@ -9,8 +9,8 @@ With the spread of COVID-19, incumbents were forced to either 'save lives' or 's
 ## Replication Materials
 
 ### Data:
-- `ChKS_2022_SLSE_Data_Study1.Rdata` - a representative sample of Russian citizens (`N = 3,109`) used in Study 1;
-- `ChKS_2022_SLSE_Data_Study2.Rdata` - a sample of volunteer online access panelists (`N = 1,214`) used in Study 2.
+- `ChKS_2022_Data_Study1.Rdata` - a representative sample of Russian citizens (`N = 3,109`) used in Study 1;
+- `ChKS_2022_Data_Study2.Rdata` - a sample of volunteer online access panelists (`N = 1,214`) used in Study 2.
 
 ### R Code:
 - TBP
